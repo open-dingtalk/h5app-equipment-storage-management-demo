@@ -168,16 +168,22 @@ npm run build
 
 应用首页
 ![](https://img.alicdn.com/imgextra/i2/O1CN01VWGonw1rt9ZAxEkQQ_!!6000000005688-2-tps-800-463.png)
+
 审批列表
 ![](https://img.alicdn.com/imgextra/i4/O1CN01Am1kKy1GsZHEdv5qR_!!6000000000678-2-tps-800-471.png)
+
 可选备件
 ![](https://img.alicdn.com/imgextra/i3/O1CN01T3rrMW1SLqMmz3Ug3_!!6000000002231-2-tps-800-459.png)
+
 发起审批
 ![](https://img.alicdn.com/imgextra/i2/O1CN01rdHc5R1gmmHRCNJ6x_!!6000000004185-2-tps-800-474.png)
+
 发起审批
 ![](https://img.alicdn.com/imgextra/i2/O1CN01rdHc5R1gmmHRCNJ6x_!!6000000004185-2-tps-800-474.png)
+
 审批页面
 ![](https://img.alicdn.com/imgextra/i4/O1CN01fEyrIS1vQXHjObdVz_!!6000000006167-2-tps-800-510.png)
+
 审批通过查看
 ![](https://img.alicdn.com/imgextra/i3/O1CN014S2LyW2855kDckdBw_!!6000000007880-2-tps-800-458.png)
 
@@ -186,4 +192,10 @@ npm run build
 1. 获取企业内部应用access_token，文档链接：https://open.dingtalk.com/document/orgapp-server/obtain-orgapp-token
 2. 通过免登码获取用户信息，文档链接：https://open.dingtalk.com/document/orgapp-server/obtain-the-userid-of-a-user-by-using-the-log-free
 3. 获取部门用户基础信息：https://open.dingtalk.com/document/orgapp-server/queries-the-simple-information-of-a-department-user
-4. 发送消息通知，文档链接：https://open.dingtalk.com/document/orgapp-server/asynchronous-sending-of-enterprise-session-messages
+4. 创建或更新审批模板，文档链接：https://open.dingtalk.com/document/orgapp-server/save-approval-template
+5. 获取模板code，文档链接：https://open.dingtalk.com/document/orgapp-server/obtains-the-template-code-based-on-the-template-name
+6. 创建实例，文档链接：https://open.dingtalk.com/document/orgapp-server/initiate-an-approval-process-without-a-process
+7. JSAPI鉴权，文档链接：https://open.dingtalk.com/document/orgapp-client/jsapi-authentication
+8. PC端选择企业内部的人，文档链接：https://open.dingtalk.com/document/isvapp-client/on-the-pc-select-the-person-in-the-enterprise
+9. 创建待办事项，文档链接：https://open.dingtalk.com/document/orgapp-server/create-a-to-do-task
+10. 更新待办状态，文档链接：https://open.dingtalk.com/document/orgapp-server/update-to-do-task-status
